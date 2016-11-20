@@ -8,9 +8,6 @@ text-align:center;
 }
 
 
-
-
-
 .main-content{
 	
 	margin-top: 3px;
@@ -87,7 +84,7 @@ p.subparagraph {
 @media(min-width:768px) and (max-width:991px){
 	
 	
-	.left-one{
+	.left{
 	width:32%;
 		float:left;
 		background-color: grey;
@@ -99,7 +96,7 @@ p.subparagraph {
 	
 }
 
-.right-one{
+.right{
 	width:32%;
     	float:right;
 	border:2px solid ;
@@ -110,7 +107,7 @@ p.subparagraph {
 	
 }
 
-.full-one{
+.full{
 	width:100%;
 		float:left;
 	border:2px solid ;
@@ -161,7 +158,7 @@ p.subparagraph {
 @media(max-width:767px){
 	
 	
-	.left-one{
+	.left{
 	
 		float:left;
 		background-color: grey;
@@ -173,7 +170,7 @@ p.subparagraph {
 	
 }
 
-.right-one{
+.right{
 	
     	float:right;
 	border:2px solid ;
@@ -185,7 +182,7 @@ p.subparagraph {
 	
 }
 
-.full-one{
+.full{
 
 		float:left;
 	border:2px solid ;
